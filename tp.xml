@@ -51,3 +51,5 @@ system
 tz
 tzbak
 userdata
+
+lynx -dump -width 120 https://wiki.codeaurora.org/xwiki/bin/QAEP/release | grep <chipset>
